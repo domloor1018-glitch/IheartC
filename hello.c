@@ -26,6 +26,8 @@ int main(void)
     printf("\n");
 
     free(array);
-    
+
+    int y = 25;
+    printf("The value of y is : %d\n", y);
     return 0;
 }
