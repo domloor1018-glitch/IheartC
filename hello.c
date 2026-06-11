@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-
+//hello
+///he;jsd;lkf
+//AJ
 typedef struct {
     char name[50];
     int age;
