@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-
+//hello
+///he;jsd;lkf
+//AJ
 typedef struct {
     char name[50];
     int age;
@@ -56,3 +58,6 @@ int main(void)
 int add(int a, int b) {
     return a + b;
 }
+//Aj Was here
+// Today is June 11th 2026
+// It is currently 10:01 AM
